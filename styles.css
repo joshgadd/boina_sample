@@ -1,0 +1,47 @@
+@charset "utf-8";
+.container {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 1.04%,rgba(54,53,53,1.00) 15.55%,rgba(163,160,160,1.00) 32.64%,rgba(253,253,253,1.00) 49.74%,rgba(148,145,145,1.00) 68.39%,rgba(53,52,52,1.00) 83.94%,rgba(0,0,0,1.00) 98.97%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 1.04%,rgba(54,53,53,1.00) 15.55%,rgba(163,160,160,1.00) 32.64%,rgba(253,253,253,1.00) 49.74%,rgba(148,145,145,1.00) 68.39%,rgba(53,52,52,1.00) 83.94%,rgba(0,0,0,1.00) 98.97%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 1.04%,rgba(54,53,53,1.00) 15.55%,rgba(163,160,160,1.00) 32.64%,rgba(253,253,253,1.00) 49.74%,rgba(148,145,145,1.00) 68.39%,rgba(53,52,52,1.00) 83.94%,rgba(0,0,0,1.00) 98.97%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 1.04%,rgba(54,53,53,1.00) 15.55%,rgba(163,160,160,1.00) 32.64%,rgba(253,253,253,1.00) 49.74%,rgba(148,145,145,1.00) 68.39%,rgba(53,52,52,1.00) 83.94%,rgba(0,0,0,1.00) 98.97%);
+}
+.container .container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(127,120,120,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(127,120,120,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(127,120,120,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(127,120,120,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #F58508;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #010101;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #EB7F07;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #F56A00;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #EC6204;
+}
+.container .container-fluid footer {
+    color: #FFFFFF;
+}
+.carousel-item.active .carousel-caption h5 {
+    color: #F86C00;
+}
+.carousel-item.active .carousel-caption p {
+    color: #D7720D;
+}
